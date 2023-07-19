@@ -1,0 +1,30 @@
+/* IMG */
+/* .bg-img1 {
+  padding: 400px;
+  height: 200%;
+  margin: 50px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("https://www.w3schools.com/bootstrap5/la.jpg");
+}
+.bg-img2 {
+  padding: 400px;
+  height: 200%;
+  margin: 50px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("https://www.w3schools.com/bootstrap5/la.jpg");
+}
+.bg-img3 {
+  padding: 400px;
+  height: 200%;
+  margin: 50px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("https://www.w3schools.com/bootstrap5/la.jpg");
+} */
+.slide {
+  padding: 50px;
+  height: 200%;
+  margin: 20px;
+}
